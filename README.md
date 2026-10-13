@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mrunali Girase 👋
 
-<!--
-**mrunali13858/mrunali13858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, SQL, Excel, and Power BI.
+
+## Skills
+- Python
+- SQL and MySQL
+- Excel
+- Power BI (Learning)
+
+## My Projects
+- Student Management System — Python and MySQL
+- Library Management System — Python
+
+## Career Goal
+Looking for an entry-level opportunity in Data Analytics.
